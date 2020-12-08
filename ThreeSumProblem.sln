@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSumProblem", "ThreeSumProblem\ThreeSumProblem.csproj", "{771BBC74-BECF-4218-8CCA-3EA8239EC1BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSumProblem", "ThreeSumProblem\ThreeSumProblem.csproj", "{771BBC74-BECF-4218-8CCA-3EA8239EC1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSumProblemTestApp", "ThreeSumProblemTestApp\ThreeSumProblemTestApp.csproj", "{F83CF4A2-4186-43B0-8B08-9F360DC12429}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{771BBC74-BECF-4218-8CCA-3EA8239EC1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{771BBC74-BECF-4218-8CCA-3EA8239EC1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{771BBC74-BECF-4218-8CCA-3EA8239EC1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83CF4A2-4186-43B0-8B08-9F360DC12429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83CF4A2-4186-43B0-8B08-9F360DC12429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83CF4A2-4186-43B0-8B08-9F360DC12429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83CF4A2-4186-43B0-8B08-9F360DC12429}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

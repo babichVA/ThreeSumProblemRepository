@@ -6,7 +6,6 @@ namespace ThreeSumProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
